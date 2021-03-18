@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_ZNXwoIeDEeueSaSS7v7oXA" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_cpocIIeDEeueSaSS7v7oXA" type="Package_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_cp13gIeDEeueSaSS7v7oXA" type="Package_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_cp2ekIeDEeueSaSS7v7oXA" type="Package_PackagedElementCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_gfesUIeDEeueSaSS7v7oXA" type="Class_Shape">
+        <children xmi:type="notation:DecorationNode" xmi:id="_gffTYIeDEeueSaSS7v7oXA" type="Class_NameLabel"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_gffTYYeDEeueSaSS7v7oXA" type="Class_FloatingNameLabel">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_gffTYoeDEeueSaSS7v7oXA" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_gff6cIeDEeueSaSS7v7oXA" type="Class_AttributeCompartment">
+          <children xmi:type="notation:Shape" xmi:id="_q2I-IIeDEeueSaSS7v7oXA" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="Musico.uml#_q17iwIeDEeueSaSS7v7oXA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_q2I-IYeDEeueSaSS7v7oXA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_rZdGkIeDEeueSaSS7v7oXA" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="Musico.uml#_rZI9gIeDEeueSaSS7v7oXA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_rZdGkYeDEeueSaSS7v7oXA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_sCA7YIeDEeueSaSS7v7oXA" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="Musico.uml#_sBxq0IeDEeueSaSS7v7oXA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_sCA7YYeDEeueSaSS7v7oXA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_siGwsIeDEeueSaSS7v7oXA" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="Musico.uml#_sh4uQIeDEeueSaSS7v7oXA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_siGwsYeDEeueSaSS7v7oXA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_nJvoEIeHEeueSaSS7v7oXA" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="Musico.uml#_nJhloIeHEeueSaSS7v7oXA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_nJwPIIeHEeueSaSS7v7oXA"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_gff6cYeDEeueSaSS7v7oXA"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_gff6coeDEeueSaSS7v7oXA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_gff6c4eDEeueSaSS7v7oXA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gff6dIeDEeueSaSS7v7oXA"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_gff6dYeDEeueSaSS7v7oXA" type="Class_OperationCompartment">
+          <children xmi:type="notation:Shape" xmi:id="_PcSe0IeIEeueSaSS7v7oXA" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="Musico.uml#_Pb-VwIeIEeueSaSS7v7oXA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_PcSe0YeIEeueSaSS7v7oXA"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_gff6doeDEeueSaSS7v7oXA"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_gff6d4eDEeueSaSS7v7oXA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_gff6eIeDEeueSaSS7v7oXA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gff6eYeDEeueSaSS7v7oXA"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_gff6eoeDEeueSaSS7v7oXA" type="Class_NestedClassifierCompartment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_gff6e4eDEeueSaSS7v7oXA"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_gff6fIeDEeueSaSS7v7oXA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_gff6fYeDEeueSaSS7v7oXA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gff6foeDEeueSaSS7v7oXA"/>
+        </children>
+        <element xmi:type="uml:Class" href="Musico.uml#_gfcQEIeDEeueSaSS7v7oXA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gfesUYeDEeueSaSS7v7oXA" x="14" y="12" width="461"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_cp2ekYeDEeueSaSS7v7oXA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cp2ekoeDEeueSaSS7v7oXA"/>
+    </children>
+    <element xmi:type="uml:Package" href="Musico.uml#_cpDNUIeDEeueSaSS7v7oXA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cpocIYeDEeueSaSS7v7oXA" y="20" width="561" height="241"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_2BCzgIeHEeueSaSS7v7oXA" type="DataType_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_2BDakIeHEeueSaSS7v7oXA" type="DataType_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_2BDakYeHEeueSaSS7v7oXA" type="DataType_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2BDakoeHEeueSaSS7v7oXA" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_2BEBoIeHEeueSaSS7v7oXA" type="DataType_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_2BEBoYeHEeueSaSS7v7oXA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_2BEBooeHEeueSaSS7v7oXA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_2BEBo4eHEeueSaSS7v7oXA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2BEBpIeHEeueSaSS7v7oXA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_2BEosIeHEeueSaSS7v7oXA" type="DataType_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_2BEosYeHEeueSaSS7v7oXA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_2BEosoeHEeueSaSS7v7oXA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_2BEos4eHEeueSaSS7v7oXA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2BEotIeHEeueSaSS7v7oXA"/>
+    </children>
+    <element xmi:type="uml:DataType" href="Musico.uml#_2A_JIIeHEeueSaSS7v7oXA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2BCzgYeHEeueSaSS7v7oXA" x="564" y="80"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_ZNXwoYeDEeueSaSS7v7oXA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_ZNXwooeDEeueSaSS7v7oXA"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_ZNXwo4eDEeueSaSS7v7oXA" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="Musico.uml#_ZFJBsIeDEeueSaSS7v7oXA"/>
+  </styles>
+  <element xmi:type="uml:Model" href="Musico.uml#_ZFJBsIeDEeueSaSS7v7oXA"/>
+</notation:Diagram>
